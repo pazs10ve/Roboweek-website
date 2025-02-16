@@ -36,10 +36,15 @@ You can view the live demo of the **RoboWeek 3.0 Website** [here](https://robowe
     ```bash
     npm install
     ```
+4. Install python requirements
+    '''bash
+       python requirements.txt
+   '''
 4. Run the development server:
     ```bash
     npm run dev
     ```
+    
 5. Open the app in your browser at `http://localhost:3000`.
 
 ## Project Structure
