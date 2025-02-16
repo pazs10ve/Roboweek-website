@@ -38,7 +38,7 @@ You can view the live demo of the **RoboWeek 3.0 Website** [here](https://robowe
     ```
 4. Install python requirements:
    ```bash
-     python requirements.txt
+     python pip install requirements.txt
     ```
 4. Run the development server:
     ```bash
